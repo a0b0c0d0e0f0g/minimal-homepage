@@ -7,7 +7,7 @@
     useSpecialDarkPalette: false // 是否启用黑夜特殊配色
   },
   author: {
-    name: 'Mete0r', //你的名称
+    name: 'aaarjkk', //你的名称
     avatar: 'https://img.xscnet.cn//i/2026/04/11/69da166816afc.jpg', //你的头像
     intro: '你好，我是Mete0r，一名学生 | Trust The Process.', //你的简介
     aiPortrait: 'https://img.xscnet.cn//i/2026/04/11/69da42c41efd5.png', //你的画像
