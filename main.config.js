@@ -22,9 +22,9 @@
     //{ name: '关于我', url: '/about' }
   ],
   blog: { //跳转博客相关配置
-    url: '',
+    url: 'https://x.com/aaarjkk',
     rssFeed: '',
-    randomCoverApi: '' //随机封面API（可选，文章列表会使用这个接口获取随机封面图）
+    randomCoverApi: 'https://x.com/aaarjkk/header_photo' //随机封面API（可选，文章列表会使用这个接口获取随机封面图）
   },
   github: {
     useGithubApi: false, // 是否使用 GitHub API 获取项目（如果为 false，则只显示 manualRepos 中的项目）
