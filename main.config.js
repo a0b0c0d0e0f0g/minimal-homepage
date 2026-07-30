@@ -4,7 +4,7 @@
     icon: '', //网站图标
     background: '', //网站背景
     useSpecialLightPalette: true, // 是否启用白天特殊配色
-    useSpecialDarkPalette: false // 是否启用黑夜特殊配色
+    useSpecialDarkPalette: true // 是否启用黑夜特殊配色
   },
   author: {
     name: 'aaarjkk', //你的名称
@@ -54,11 +54,11 @@
     ]
   },
   socials: [ //社交链接
-    { name: 'GitHub', label: 'Open Source', icon: 'https://res.xscnet.cn/BlogStatic/Icon/svg/github-line.svg', url: 'https://github.com/a0b0c0d0e0f0g/' },
-    { name: 'X', label: 'Daily Life', icon: 'https://res.xscnet.cn/BlogStatic/Icon/svg/twitter-x-line.svg', url: 'https://x.com/aaarjkk/' },
-    { name: 'Bilibili', label: 'Videos', icon: 'https://res.xscnet.cn/BlogStatic/Icon/svg/bilibili-line.svg', url: 'https://space.bilibili.com/4' },
+    { name: 'GitHub', label: 'a0b0c0d0e0f0g', icon: 'https://res.xscnet.cn/BlogStatic/Icon/svg/github-line.svg', url: 'https://github.com/a0b0c0d0e0f0g/' },
+    { name: 'X', label: '@aaarjkk', icon: 'https://res.xscnet.cn/BlogStatic/Icon/svg/twitter-x-line.svg', url: 'https://x.com/aaarjkk/' },
+    { name: 'Bilibili', label: '账号封禁中（哭）', icon: 'https://res.xscnet.cn/BlogStatic/Icon/svg/bilibili-line.svg', url: 'https://b23.tv/s1kfGWL' },
     //{ name: '163Music', label: 'Music', icon: 'https://res.xscnet.cn/BlogStatic/Icon/svg/MdiMusicClefTreble.svg', url: 'https://music.163.com/#/artist?id=95704903' },
-    { name: 'Email', label: 'Contact Me', icon: 'https://res.xscnet.cn/BlogStatic/Icon/svg/mail-line.svg', url: 'aaarjkk@outlook.com' },
+    { name: 'Email', label: '', icon: 'https://res.xscnet.cn/BlogStatic/Icon/svg/mail-line.svg', url: 'aaarjkk@outlook.com' },
     //{ name: 'Youtube', label: 'Community', icon: 'https://res.xscnet.cn/BlogStatic/Icon/svg/LineMdYoutubeFilled.svg', url: 'https://www.youtube.com/@Mete0r7023' }
   ],
   footer: {
