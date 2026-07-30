@@ -33,7 +33,7 @@
         rel="noopener noreferrer"
         class="inline-block px-6 md:px-8 py-3 bg-blue-600 text-white rounded-2xl hover:bg-blue-700 hover:shadow-lg hover:-translate-y-1 transition-all duration-300"
       >
-        访问我的博客
+        访问我的推特
       </a>
     </div>
   </section>
