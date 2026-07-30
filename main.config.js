@@ -1,16 +1,16 @@
 ﻿export default {
   site: {
     title: '喵喵喵', //网站标题
-    icon: '', //网站图标
+    icon: 'https://open.r2.cf.aaarjkk.top/%E5%A4%B4%E5%83%8F/2.jpg', //网站图标
     background: '', //网站背景
     useSpecialLightPalette: true, // 是否启用白天特殊配色
     useSpecialDarkPalette: true // 是否启用黑夜特殊配色
   },
   author: {
     name: 'aaarjkk', //你的名称
-    avatar: '', //你的头像
+    avatar: 'https://open.r2.cf.aaarjkk.top/%E5%A4%B4%E5%83%8F/2.jpg', //你的头像
     intro: '', //你的简介
-    aiPortrait: '', //你的画像
+    aiPortrait: 'https://open.r2.cf.aaarjkk.top/%E5%A4%B4%E5%83%8F/1.jpg', //你的画像
     mbti: '', //你的MBTI人格类型(影响到关于我页面)
     aboutMeintro: '' //关于我的介绍
   },
