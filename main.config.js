@@ -17,9 +17,9 @@
   navLinks: [ //导航栏
     { name: '首页', url: '/' },
     { name: '社交', url: '#socials' },
-    { name: '项目', url: '#projects' },
-    { name: '文章', url: '#articles' },
-    { name: '关于我', url: '/about' }
+    //{ name: '项目', url: '#projects' },
+    //{ name: '文章', url: '#articles' },
+    //{ name: '关于我', url: '/about' }
   ],
   blog: { //跳转博客相关配置
     url: '',
@@ -27,9 +27,9 @@
     randomCoverApi: '' //随机封面API（可选，文章列表会使用这个接口获取随机封面图）
   },
   github: {
-    useGithubApi: true, // 是否使用 GitHub API 获取项目（如果为 false，则只显示 manualRepos 中的项目）
+    useGithubApi: false, // 是否使用 GitHub API 获取项目（如果为 false，则只显示 manualRepos 中的项目）
     username: 'a0b0c0d0e0f0g', // GitHub 用户名
-    maxRepos: 0, // 最大显示仓库数量
+    maxRepos: -1, // 最大显示仓库数量
     excludeForks: true,  // 是否排除 Fork 的仓库
 
     // API 模式下：按仓库名称匹配封面
