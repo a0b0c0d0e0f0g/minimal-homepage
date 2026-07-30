@@ -16,7 +16,7 @@
             rel="noopener noreferrer"
             class="inline-block px-6 py-3 rounded-2xl bg-blue-600 text-white font-semibold hover:bg-blue-700 transition-colors"
           >
-            访问我的博客
+            访问我的推特
           </a>
         </div>
 
